@@ -1,0 +1,17 @@
+*{
+    padding: 0%;
+    margin: 0%;
+    box-sizing: border-box;
+}
+.line{
+    color: 2px solid red;
+}
+
+
+@media screen and (max-width: 950px) {
+    .img1 img{
+        height: 70vh;
+    }
+
+    
+}
